@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/chatmate-30905-10fc3c9d/chatmate"
+}
